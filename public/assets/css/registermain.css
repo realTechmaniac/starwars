@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+}
+
+#logotext{
+    font-family: 'UnifrakturMaguntia', cursive !important;
+    font-size: 2rem;
+    color: black;
+    font-weight: bolder;
+}
+
+.errorinput{
+    color: red !important;
+}
